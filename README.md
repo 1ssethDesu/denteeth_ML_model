@@ -1,4 +1,4 @@
-# Dental X-Ray Detection API
+# Dental Detection API
 
 A FastAPI application for detecting dental diseases in X-ray images using Faster R-CNN. This application provides a RESTful API for uploading dental X-ray images and receiving predictions with bounding boxes and disease information.
 
